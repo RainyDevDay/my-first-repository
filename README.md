@@ -1,4 +1,6 @@
+# Table of Contents
 
+-example_file.txt
 
 Important steps for git workflow:
 
