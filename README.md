@@ -2,7 +2,9 @@
 
 -example_file.txt
 
-Important steps for git workflow:
+Important steps for git workflow: 
+
+Here is a change!
 
 
 # README #
